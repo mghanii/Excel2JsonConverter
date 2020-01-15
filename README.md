@@ -1,5 +1,5 @@
 # Excel2JsonConverter
-Convert Excel to JSON, mapping every sheet rows to json objects.
+A simple tool to convert Excel files to JSON, mapping every sheet columns to object keys.
 
 ## Usage
 
