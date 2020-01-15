@@ -11,5 +11,6 @@ Every sheet will be converted to a sepatred file.
 
 The newly created json file/s will be in the same directory as excel file.
 
-* It's expected for excel sheet top row to have columns headers.
-
+```css
+It's expected for excel sheet top row to have columns headers.
+```
